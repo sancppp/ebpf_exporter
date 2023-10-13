@@ -1,0 +1,3 @@
+[submodule "warp_theme_xidian"]
+	path = warp_theme_xidian
+	url = git@github.com:sancppp/warp_theme_xidian.git
